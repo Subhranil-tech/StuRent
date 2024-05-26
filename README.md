@@ -36,4 +36,4 @@ git clone https://github.com/codewithsadee/tourly.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [LinkenIn](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [LinkenIn](https://www.linkedin.com/in/aindria-das-8936a2250/).
